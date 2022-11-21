@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreIssueDeleteUsingStoredProcedure", "EFCoreIssueDeleteUsingStoredProcedure\EFCoreIssueDeleteUsingStoredProcedure.csproj", "{34576A6B-7AAC-4B84-90AD-CCCAAB91C1CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34576A6B-7AAC-4B84-90AD-CCCAAB91C1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34576A6B-7AAC-4B84-90AD-CCCAAB91C1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34576A6B-7AAC-4B84-90AD-CCCAAB91C1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34576A6B-7AAC-4B84-90AD-CCCAAB91C1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46374EC7-2414-45DE-AF5C-5EF6B28835F6}
+	EndGlobalSection
+EndGlobal
